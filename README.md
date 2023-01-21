@@ -6,7 +6,7 @@
 
 **Resumo:** O projeto tem como objetivo ter o primeiro contato com web front-end utilizado HTML e CSS. 
 
------
+
 ## Descrição:
 
 Para explorar os conceitos na prática foi criado um cardápio de um restaurante fictício. Nele temos os produtos que são vendindos, juntamente com a descrição e o preço de cada um. 
