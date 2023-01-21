@@ -4,7 +4,7 @@
 
 **Disponibilizado:** Rockyseat.
 
-**Resumo:** O projeto tem como objetivo ter o primeiro contato com web front-end utilizado HTML e CSS. 
+**Resumo:** O projeto tem como objetivo ter o primeiro contato com front-end utilizado HTML e CSS. 
 
 
 ## Descrição:
